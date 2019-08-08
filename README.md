@@ -1,7 +1,4 @@
-# dados_prova
+# Anaálise de uma base de dados de notas de alunos do país
 Desafio da BDR para a empresa DOT Digital
 
-  Os códigos e interpretações estão no arquivo desafio_dot_digital.ipynb.
-  Um arquivo salvo em .py também estará disponível.
-  Instruções para o uso de partes do script estão no corpo do texto.
-  A base de dados não foi inserida por eu não ter a permissão de inserí-la aqui.
+  Foram analisados alunos de diversas regiões do Brasil, onde os dados principais eram as notas de prova e de redação. Os critérios para serem aprovados eram ter tirado notas maiores ou iguais a 5 na prova e maior do que zero na redação.
